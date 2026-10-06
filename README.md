@@ -9,7 +9,7 @@ Dưới đây là video demo hoạt động của ứng dụng / extension phát
 https://github.com/user-attachments/assets/d76b3360-78d6-4d99-8935-965c2635303c
 
 > [!TIP]
-> Bạn có thể xem chi tiết trao đổi và feedback tại [GitHub Issue #1](https://github.com/Trung3101/ClickBait_ICD/issues/1).
+> Bạn có thể xem chi tiết trao đổi và feedback tại [GitHub Issue #1](https://github.com/TrieuTruong018/ClickBait_ICD/issues/1).
 
 ## 🚀 Hướng dẫn cài đặt và chạy (Getting Started)
 
@@ -18,7 +18,7 @@ Làm theo các bước dưới đây để thiết lập môi trường và ch�
 ### 1. Clone repository
 Khởi tạo và tải dự án về máy:
 ```bash
-git clone https://github.com/Trung3101/ClickBait_ICD.git
+git clone https://github.com/TrieuTruong018/ClickBait_ICD.git
 cd ClickBait_ICD
 ```
 
